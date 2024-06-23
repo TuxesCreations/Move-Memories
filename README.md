@@ -93,7 +93,7 @@
 ## Contact Information
 
 For any questions, issues, or feature requests, please contact us at:  
-**Email:** TuxesCreations@example.com
+**Email:** hello@tuxescreations.com
 
 ---
 
