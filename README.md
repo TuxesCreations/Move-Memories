@@ -5,7 +5,7 @@
 **Developed in:** AppleScript  
 **Version:** 1.0  
 **Made with Love by:** TuxesCreations and Aurora  
-**Contact:** TuxesCreations@example.com
+**Contact:** hello@tuxescreations.com
 
 ---
 
